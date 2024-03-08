@@ -224,6 +224,8 @@ nav li.active a {
   }
   nav a{
     font-size: 20px;
+    width: 100%;
+    float: inline-start;
   }
   img{
     margin-left: 50px;
